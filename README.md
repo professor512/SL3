@@ -1,5 +1,5 @@
 # 📊 SL-III — Data Science Lab Practicals
-### D.Y. Patil College of Engineering | TE | Semester 6
+### SPPU | TE | Semester 6
 
 > **Prepared for Viva Examination** — Each practical is explained in full detail covering theory, code logic, concepts, and likely viva questions.
 
